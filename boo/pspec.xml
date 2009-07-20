@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PISI SYSTEM "http://www.pardus.org.tr/projeler/pisi/pisi-spec.dtd">
+<PISI>
+    <Source>
+        <Name>boo</Name>
+        <Homepage>http://boo.codehaus.org/</Homepage>
+        <Packager>
+            <Name>Hüseyin ASLITÜRK</Name>
+            <Email>huseyin@asliturk.com</Email>
+        </Packager>
+        <License>mono-zeroconf</License>
+        <IsA>library</IsA>
+        <Summary>Boo programming language</Summary>
+        <Description>Boo is a new object oriented statically typed programming language for the Common Language Infrastructure with a python inspired syntax and a special focus on language and compiler extensibility.</Description>
+        <Archive sha1sum="112da413f8f7bbe67f0d5d9c9d665969ed659ae0" type="targz">http://dist.codehaus.org/boo/distributions/boo-0.9.1.3287.tar.gz</Archive>
+    </Source>
+
+    <Package>
+        <Name>boo</Name>
+        <Files>
+	  <Path fileType="all">/</Path>
+        </Files>	
+    </Package>
+
+    <History>
+        <Update release="1">
+            <Date>2009-07-13</Date>
+            <Version>0.9.1.3287</Version>
+            <Comment>First release.</Comment>
+            <Name>Hüseyin ASLITÜRK</Name>
+            <Email>huseyin@asliturk.com</Email>
+        </Update>
+    </History>
+</PISI>

@@ -1,0 +1,10 @@
+<PISI>
+    <Name>pardus-banshee</Name>
+    <LocalName xml:lang="tr">Banshee çokluortam yürütücüsü</LocalName>
+    <Summary xml:lang="tr">Banshee çokluortam yürütücüsü</Summary>
+    <Description xml:lang="tr">Banshee çokluortam yürütücüsü</Description>
+    <Packager>
+	<Name>Hüseyin ASLITÜRK</Name>
+	<Email>huseyin@asliturk.com</Email>
+    </Packager>
+</PISI>
